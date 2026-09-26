@@ -6,4 +6,4 @@ __pycache__/
 .env
 
 # Books
-books/*.pdf
+books/*
